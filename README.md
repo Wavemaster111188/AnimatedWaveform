@@ -1,9 +1,9 @@
-![animated example](https://badgen.net/badge/release/1.0.0/pink)
-![animated example](https://badgen.net/badge/platform/iOS%2015/blue?icon=apple)
-![animated example](https://badgen.net/badge/SwiftUI/3/cyan)
-![animated example](https://badgen.net/badge/Swift/5.5/orange)
-![animated example](https://badgen.net/badge/license/MIT/green)
-![animated example](https://badgen.net/badge/small/331kb/yellow)
+![release 1.0.0](https://badgen.net/badge/release/1.0.0/pink)
+![iOS 15](https://badgen.net/badge/platform/iOS%2015/blue?icon=apple)
+![SwiftUI 3](https://badgen.net/badge/SwiftUI/3/cyan)
+![Swift 5.5](https://badgen.net/badge/Swift/5.5/orange)
+![MIT licence](https://badgen.net/badge/license/MIT/green)
+![331kb](https://badgen.net/badge/small/331kb/yellow)
 
 # AnimatedWaveform
 
